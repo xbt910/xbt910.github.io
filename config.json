@@ -9,6 +9,17 @@
     "nightTheme": "dark_colorblind",
     "i18n": "CN",
     "UTC": 8,
+    "homeUrl": "https://xbt910.github.io",
+    "faviconUrl": "https://cdn.luogu.com.cn/upload/image_hosting/ztxvpwr2.png/favicon.ico",
+    "displayTitle": "✨ 技术笔记",
+    "startSite": "24/05/2026",
+    "bottomText": "© 2026 我的博客 | 分享让世界更美好",
+    "ogImage": "https://cdn.luogu.com.cn/upload/image_hosting/ztxvpwr2.png/og-image.jpg",
+    "onePageListNum": 12,
+    "singlePage": ["about", "links"],
+    "urlMode": "pinyin",
+    "showPostSource": 0,
+    "rssSplit": "sentence",
     // --- 样式与插件（这里是美化的核心）---
     // 1. 自定义首页样式：隐藏头像，调整大小，适配深色模式
     "indexStyle": "<style>\n  /* 禁用头像旋转动画 */\n  .avatar { transition: none !important; }\n  /* 调整头像大小并居中 */\n  .avatar { width: 80px; height: 80px; margin: 10px auto; }\n  /* 深色模式下头像反色 */\n  @media (prefers-color-scheme: dark) { .avatar { filter: invert(1); } }\n  /* 让所有文章卡片图片居中显示 */\n  .postItem img { display: block; margin: 0 auto; }\n</style>",
