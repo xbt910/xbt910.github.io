@@ -3,5 +3,10 @@
     "subTitle":"xiongbbb 的 blog",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "needComment": 1,
+    "themeMode": "auto",
+    "dayTheme": "light",
+    "nightTheme": "dark_colorblind",
+    "i18n": "CN",
+    "UTC": 8,
     "GMEEK_VERSION":"last"
 }
